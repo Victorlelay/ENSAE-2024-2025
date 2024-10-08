@@ -6,3 +6,4 @@ et le rugby
 et la cuisine
 :cat:
 :koala:
+:dog:
